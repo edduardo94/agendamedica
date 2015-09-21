@@ -1,0 +1,2 @@
+/Users/eduardo/Documents/projetos/agendamedica/platforms/android/build/intermediates/classes/debug
+/Users/eduardo/Documents/projetos/agendamedica/platforms/android/build/intermediates/pre-dexed/debug/classes-6f89f5f483c00739725778a0190ab21530abd8bf.jar
